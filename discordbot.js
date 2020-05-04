@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const bot = new Discord.Client();
 const { Client, MessageEmbed, GuildMember, Role, avatarURL, display, User, guild, memberCount } = require('discord.js');
 
-const token = 'Njg1Nzc3MjIyMjQxMzUzNzY4.XmU5RA.kPQEnF898fIaUwXA4PnJI5OL-Ak';
+const token = '';
 
 const prefix = '$';
 
